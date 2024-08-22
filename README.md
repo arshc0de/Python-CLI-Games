@@ -22,8 +22,8 @@ A collection of simple and fun command-line interface (CLI) games written in Pyt
 
 2. **Navigate to the Game Folder and Run:**
    ```bash
-   cd rock_paper_scissors
-   python game.py
+   cd Rock-Paper-Scissors
+   python Rock-Paper-Scissors.py
    ```
 
 ## Contributing
