@@ -1,2 +1,42 @@
-# Python CLI Games
- 🚀 Python CLI Games 🎮  Explore a collection of fun, command-line games written in Python! Perfect for coding practice and entertainment. 🎲👨‍💻👩‍💻  🔹 Play classic games like Rock-Paper-Scissors 🔹 Easy to run and contribute to 🔹 Ideal for Python beginners
+### Python CLI Games
+
+**python-cli-games**
+
+### `README.md`
+
+````markdown
+# Python CLI Games 🎮
+
+A collection of simple and fun command-line interface (CLI) games written in Python. Explore various games designed to enhance your Python skills through interactive coding exercises.
+
+## Games
+
+- **Rock-Paper-Scissors** 🪨📃✂️: A classic game where you play against the computer.
+
+## Getting Started
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/arshc0de/Python-CLI-Games.git
+   ```
+````
+
+2. **Navigate to the Game Folder and Run:**
+   ```bash
+   cd rock_paper_scissors
+   python game.py
+   ```
+
+## Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+## License
+
+MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Author
+
+Created by [Arsh](https://github.com/arshc0de).
+
+Enjoy coding and playing Python CLI games! 🎉
