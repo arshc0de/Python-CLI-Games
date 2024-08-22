@@ -4,7 +4,6 @@
 
 ### `README.md`
 
-````markdown
 # Python CLI Games 🎮
 
 A collection of simple and fun command-line interface (CLI) games written in Python. Explore various games designed to enhance your Python skills through interactive coding exercises.
@@ -16,10 +15,10 @@ A collection of simple and fun command-line interface (CLI) games written in Pyt
 ## Getting Started
 
 1. **Clone the Repository:**
+
    ```bash
    git clone https://github.com/arshc0de/Python-CLI-Games.git
    ```
-````
 
 2. **Navigate to the Game Folder and Run:**
    ```bash
