@@ -8,6 +8,10 @@ Welcome to the **Python CLI Games** repository! 🎉 Dive into a collection of e
 
 Challenge the computer to a classic game of Rock-Paper-Scissors! Choose your move and see if you can outsmart the computer. It's a great way to practice Python basics in a fun, interactive way.
 
+### **Password-Genrator** 🛠️🔑🤐🎲
+
+Create secure passwords with this fun Python project! Choose between Simple or Advanced modes and generate a strong password. It’s a great way to practice Python basics while enhancing your coding skills.
+
 ## 🚀 Getting Started
 
 1. **Clone the Repository:**
